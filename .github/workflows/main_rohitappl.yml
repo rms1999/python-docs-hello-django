@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'RohitAppl'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B7514E1E417479399E8183CD8EB9F3B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AAFECEAA7EB241D2A98A1B5109310CA1 }}
